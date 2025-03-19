@@ -1,6 +1,6 @@
 -  Hi, I’m Jialing Bi (@SirBeaverB), an undergrad from Gaoling School of Artificial Intelligence, Renmin University of China.
 -  I’m interested in graph neural networks, LLM agents and machine learning. Interests shift fast, though.
--  I'm currently an exchange student at UC Berkeley.
+-  Exchange student at UC Berkeley during Fall 2024.
 -  Looking for research opportunities!
 -  Email: bijialing22@ruc.edu.cn (prefered) or bquantumwill@gmail.com
 
